@@ -8,5 +8,7 @@ Familiar with Git and GitHub, including basic teamwork through Pull Requests. Ha
 </h2>
 <h2>🧰 Tech Stack  </h2>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+[JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 
