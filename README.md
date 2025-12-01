@@ -17,6 +17,35 @@ Familiar with Git and GitHub, including basic teamwork through Pull Requests. Ha
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 <h2>💻Featured Projects </h2>
+# Node.js HW 🧪
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<h2 align="center">Beginner Back-end Developer Project: Mail & Image Handling</h2>
+
+## Опис
+Навчальний бекенд-проект на Node.js, який дозволяє:
+- Відправляти email через сервер,
+- Завантажувати та зберігати зображення,
+- Працювати з простими REST API маршрутами.
+
+Проект демонструє базову роботу з серверною логікою, обробку запитів та збереження даних.
+
+## Tech Stack
+- **Node.js** – серверна платформа
+- **Express.js** – фреймворк для маршрутизації
+- **Multer** – для обробки завантаження файлів (multipart/form-data)
+- **MongoDB** – база даних (якщо використовується для збереження даних)
+- **REST API** – базові принципи роботи з HTTP-запитами
+- **Git / GitHub** – базова командна робота через Pull Requests
+
+## Функціонал
+- 📧 **Відправка email:** сервер приймає запити та відправляє листи на вказаний email.
+- 🖼 **Завантаження зображень:** підтримка form-data, збереження на сервері, повернення URL до файлу.
+- ⚡ **Відповіді API:** сервер повертає статус та дані про результат операцій.
+
 
 
 
