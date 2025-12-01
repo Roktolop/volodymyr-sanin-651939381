@@ -19,8 +19,8 @@ Familiar with Git and GitHub, including basic teamwork through Pull Requests. Ha
 
 
 <h2 align="center">💻Featured Projects </h2>
-# Node.js HW 🧪
-https://github.com/Roktolop/nodejs-hw/tree/05-mail-and-img
+# <a href="https://github.com/Roktolop/nodejs-hw/tree/05-mail-and-img
+">Node.js Back app</a> 🧪
 
 <h2 align="center">Beginner Back-end Developer Project: Mail & Image Handling</h2>
 
